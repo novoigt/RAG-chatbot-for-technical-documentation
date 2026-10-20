@@ -1,0 +1,111 @@
+{
+  "created_at": "2026-10-20T12:57:35",
+  "chat_model": "llama3.2",
+  "embedding_model": "nomic-embed-text",
+  "chunk_size": 500,
+  "chunk_overlap": 50,
+  "retriever_k": 3,
+  "summary": {
+    "total_questions": 6,
+    "successful": 6,
+    "failed": 0
+  },
+  "results": [
+    {
+      "number": 1,
+      "question": "What does the ABS warning light mean and what should I do?",
+      "answer": "The ABS warning light indicates that the anti-lock brake system (ABS) has failed. Please consult an MG Authorised Repairer immediately. \n\n• Stop the vehicle as soon as it is safe to do so.\n• Switch off the engine.",
+      "status": "OK",
+      "distances": [
+        0.597280740737915,
+        0.7039787769317627,
+        0.7291526794433594
+      ],
+      "source_previews": [
+        "Warning Message Procedure Start Stop Button Fault Indicates that the Start Stop button has detected a fault. Please consult an MG Authorised Repairer immediately. Passive Entry Fault Indicates that th",
+        "Warning Message Procedure Airbag Fault Indicates that the Airbag system has detected a fault. As soon as conditions permit, safely stop the vehicle and switch off the engine and contact an MG Authoris",
+        "Warning Message Procedure Brake Fault Indicates that the brake fluid could be low or a fault has been detected in the Electronic Brake-force Distribution (EBD) system. As soon as safety permits, stop"
+      ]
+    },
+    {
+      "number": 2,
+      "question": "What should I do when the tyre pressure warning system indicates a problem?",
+      "answer": "Here is the answer based on the provided context:\n\n* Switch off the engine.\n* Contact an MG Authorised Repairer as soon as possible.",
+      "status": "OK",
+      "distances": [
+        0.40942147374153137,
+        0.44012680649757385,
+        0.4973146319389343
+      ],
+      "source_previews": [
+        "Warning Message Procedure Airbag Fault Indicates that the Airbag system has detected a fault. As soon as conditions permit, safely stop the vehicle and switch off the engine and contact an MG Authoris",
+        ". TPMS Fault Indicates that the tyre pressure monitoring system has detected a fault. Please consult an MG Authorised Repairer as soon as possible.",
+        "Warning Message Procedure Brake Fault Indicates that the brake fluid could be low or a fault has been detected in the Electronic Brake-force Distribution (EBD) system. As soon as safety permits, stop"
+      ]
+    },
+    {
+      "number": 3,
+      "question": "What does the engine coolant temperature warning mean?",
+      "answer": "The engine coolant temperature warning means that the high engine coolant temperature could result in severe damage. As soon as conditions permit, safely stop the vehicle and switch off the engine and contact an MG Authorised Repairer immediately. This warning is likely related to the Engine Coolant Temperature Sensor Fault or a general Engine Coolant Temperature High warning.",
+      "status": "OK",
+      "distances": [
+        0.44691401720046997,
+        0.5343677401542664,
+        0.6290889382362366
+      ],
+      "source_previews": [
+        "Warning Message Procedure Cruise Control Fault Indicates that the cruise control system has detected a fault. Please consult an MG Authorised Repairer as soon as possible. Active Speed Limiter Fault I",
+        ". As soon as conditions permit, safely stop the vehicle and switch off the engine and contact an MG Authorised Repairer immediately. Engine Coolant Temperature Sensor Fault Indicates that the engine c",
+        "Warning Message Procedure Low Oil Pressure Indicates that the oil pressure is too low, which may result in severe engine damage. As soon as safety permits, stop the car, switch off the engine and chec"
+      ]
+    },
+    {
+      "number": 4,
+      "question": "What should I do if the electric power steering warning appears?What is the recommended action for the brake system warning?",
+      "answer": "For the Electric Power Steering (EPS) warning, the recommended action is:\n\n• Safely stop the vehicle and switch off the engine\n• Start the engine, drive a short distance, and monitor the steering operation\n• Contact an MG Authorised Repairer immediately if the message is still displayed or the steering assistance is reduced.\n\nFor the Brake system warning, the recommended action is:\n\n• Stop the car, switch off the engine, and check the brake fluid level\n• Contact an MG Authorised Repairer as soon as possible.",
+      "status": "OK",
+      "distances": [
+        0.35811689496040344,
+        0.4445350170135498,
+        0.48128461837768555
+      ],
+      "source_previews": [
+        "Warning Message Procedure EPS Performance Reduced Indicates that the electric power steering system has a general failure and that the steering performance has been reduced. As soon as conditions perm",
+        "Warning Message Procedure Brake Fault Indicates that the brake fluid could be low or a fault has been detected in the Electronic Brake-force Distribution (EBD) system. As soon as safety permits, stop",
+        "Warning Message Procedure EPB System Fault Indicates that the electronic parking brake system (EPB) has detected a fault. Please consult an MG Authorised Repairer as soon as possible. Park Brake Force"
+      ]
+    },
+    {
+      "number": 5,
+      "question": "What does the airbag warning light indicate?",
+      "answer": "The airbag warning light indicates that the Airbag system has detected a fault. As soon as conditions permit, safely stop the vehicle and switch off the engine and contact an MG Authorised Repairer immediately. \n\n• Safely stop the vehicle\n• Switch off the engine",
+      "status": "OK",
+      "distances": [
+        0.47682511806488037,
+        0.7108645439147949,
+        0.7194939851760864
+      ],
+      "source_previews": [
+        "Warning Message Procedure Airbag Fault Indicates that the Airbag system has detected a fault. As soon as conditions permit, safely stop the vehicle and switch off the engine and contact an MG Authoris",
+        "Warning Message Procedure Start Stop Button Fault Indicates that the Start Stop button has detected a fault. Please consult an MG Authorised Repairer immediately. Passive Entry Fault Indicates that th",
+        "Warning Message Procedure Brake Fault Indicates that the brake fluid could be low or a fault has been detected in the Electronic Brake-force Distribution (EBD) system. As soon as safety permits, stop"
+      ]
+    },
+    {
+      "number": 6,
+      "question": "What should I do if the charging system warning appears?",
+      "answer": "If the charging system warning appears, please consult an MG Authorised Repairer immediately. \n\nNo further actions are specified in the provided context.",
+      "status": "OK",
+      "distances": [
+        0.5266285538673401,
+        0.628477156162262,
+        0.6466264724731445
+      ],
+      "source_previews": [
+        "Warning Message Procedure 12V Battery Charging System Fault Indicates that the 12V battery charging system has failed. Please consult an MG Authorised Repairer immediately. Rear Drive Assist System Fa",
+        "Warning Message Procedure Stop Start System Fault Indicates that the Stop/Start intelligent fuel saving system has detected a fault. Please consult an MG Authorised Repairer as soon as possible. Clutc",
+        "Warning Message Procedure Cruise Control Fault Indicates that the cruise control system has detected a fault. Please consult an MG Authorised Repairer as soon as possible. Active Speed Limiter Fault I"
+      ]
+    }
+  ]
+}

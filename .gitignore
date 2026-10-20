@@ -1,0 +1,35 @@
+# Python-Cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Lokale Python-Umgebungen
+.venv/
+venv/
+
+# Test- und Analyse-Caches
+.pytest_cache/
+.mypy_cache/
+.pyright/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Paket-Builds
+build/
+dist/
+*.egg-info/
+
+# Lokale Umgebungsvariablen
+.env
+.env.*
+!.env.example
+
+# Generierte RAG-Artefakte im Projekt-Hauptverzeichnis
+/chroma_db/
+
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
+Desktop.ini

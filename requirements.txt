@@ -1,0 +1,17 @@
+# LangChain-Grundbausteine
+langchain-core
+langchain-text-splitters
+
+# Lokale Modelle über Ollama
+langchain-ollama
+
+# Chroma-Vektordatenbank
+langchain-chroma
+chromadb
+
+# Lokale Dokumentverarbeitung
+langchain-unstructured
+unstructured
+
+# HTTP-Client und Timeout-Konfiguration
+httpx
